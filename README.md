@@ -1,1 +1,1 @@
-A python calculator that I created to improve my ability.
+A python command line interface calculator that I made as a side project. The calculator is very simple and can only do a single operation at a time.
